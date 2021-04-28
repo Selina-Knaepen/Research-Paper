@@ -1,0 +1,19 @@
+#container {
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#container .throw {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    font-size: 24px;
+    font-weight: bold;
+    background: tomato;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,31 @@
+#container {
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+  
+#container p {
+  font-size: 150px;
+  margin: 0;
+}
+
+#container .plus {
+    width: 250px;
+    height: 75px;
+    border-radius: 15px;
+    font-size: 40px;
+    background: lightgreen;
+    margin-bottom: 10px;
+}
+
+#container .minus {
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    font-size: 30px;
+    background: tomato;
+}
